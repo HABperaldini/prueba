@@ -1,7 +1,9 @@
 package entity;
 
+import java.time.LocalDate;
+
 public class Alumno {
     private int id;
     private String nombre;
-    private String fechaDeNacimiento;
+    private LocalDate fechaDeNacimiento;
 }
