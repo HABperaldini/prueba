@@ -1,3 +1,1 @@
 # prueba
-
-GitHub template
